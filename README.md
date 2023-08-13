@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [//]: # (<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>)
 
@@ -21,7 +21,12 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 
-
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@wlstjdwkd"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@wlstjdwkd"/></a>&nbsp
+  <a href="https://www.instagram.com/bvng._.mooomiin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bvng._.mooomiin/"/></a>&nbsp
+  <a href="mailto:xkakrlfh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xkakrlfh@gmail.com"/></a>
+</p>
 
 
 
