@@ -83,8 +83,8 @@
 ---
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlstjdwkd&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=wlstjdwkd&show_icons=true&theme=radical">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=wlstjdwkd">
+    <img src="https://github-readme-stats.vercel.app/api?username=wlstjdwkd&show_icons=true&theme=radical">
 </p>
 
 <br>
