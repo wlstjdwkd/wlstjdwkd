@@ -1,17 +1,23 @@
-[//]: # (<div align="center">)
 
-[//]: # ()
-[//]: # (![header]&#40;https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JinSeong's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&#41;)
-
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8%20%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%ED%84%B0%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B0%A9%EC%A7%84%EC%84%B1&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+<h3 align="left">🌈 Follow Me 🌈</h3>
+---
+
+[포트폴리오_구글드라이브](https://drive.google.com/file/d/1V7lwvjcMtLzPF6OC3BgxA1lUIpVJXOs_/view?usp=sharing)
+
+<a href="https://velog.io/@wlstjdwkd"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://www.instagram.com/bvng._.mooomiin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:xkakrlfh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=square&logo=Gmail&logoColor=white"/></a></br>
+
+
+<br>
+
+<h3 align="left">📚 Tech Stack 📚</h3>
 
 ---
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-
-<p align="center">
+<p align="left">
   <strong>Back-End</strong><br>
   <img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=white" width="50" height="30"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&logo=SpringBoot&logoColor=white" width="120" height="30"/>&nbsp 
@@ -68,25 +74,56 @@
 
 </p>
 
----
+<br>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
 
-<br align="center">
-  <a href="https://velog.io/@wlstjdwkd"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=square&logo=Vimeo&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/bvng._.mooomiin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="mailto:xkakrlfh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=square&logo=Gmail&logoColor=white"/></a></br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlstjdwkd&count_bg=%233D79C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
+<h3 align="left">🎈Information🎲</h3>
 
 ---
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlstjdwkd&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=wlstjdwkd&show_icons=true&theme=radical">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=wlstjdwkd">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlstjdwkd&layout=compact">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wlstjdwkd&show_icons=true&theme=radical">
+[//]: # (<h3 align="left">📌 My Project 📌</h3>)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlstjdwkd)](https://solved.ac/wlstjdwkd)
+[//]: # (---)
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+[//]: # ()
+[//]: # (| Organization | Activity | Position | Achieve | Date |)
 
+[//]: # (|----------|----------|----------|----------|----------|)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+[//]: # (|          |          |          |          |          |)
+
+
+
+
+---
+
+<div style="text-align: right;">
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlstjdwkd&count_bg=%233D79C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    </a>
 </div>
