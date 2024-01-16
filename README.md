@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8%20%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%ED%84%B0%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B0%A9%EC%A7%84%EC%84%B1&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 <h3 align="left">🌈 Follow Me 🌈</h3>
+
 ---
 
 [포트폴리오_구글드라이브](https://drive.google.com/file/d/1V7lwvjcMtLzPF6OC3BgxA1lUIpVJXOs_/view?usp=sharing)
@@ -122,7 +123,7 @@
 
 ---
 
-<div style="text-align: right;">
+<div style="text-align: right">
     <a href="https://hits.seeyoufarm.com">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlstjdwkd&count_bg=%233D79C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     </a>
