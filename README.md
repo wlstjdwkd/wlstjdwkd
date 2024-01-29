@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/VS Code-007ACC?style=square&logo=visualstudiocode&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/HeidiSQL-6DB33F?style=square&logo=HeidiSQL&logoColor=white"/>&nbsp 
           <img src="https://img.shields.io/badge/putty-003A70?style=square&logo=putty&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/movaxterm-000000?style=square&logo=movaxterm&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/mobaxterm-000000?style=square&logo=mobaxterm&logoColor=white"/>&nbsp
 
 </p>
 
