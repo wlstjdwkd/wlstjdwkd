@@ -2,12 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8%20%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%ED%84%B0%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B0%A9%EC%A7%84%EC%84%B1&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
-<details style="font-size: 24px;">
+<details style="font-size: 30px;">
   <summary><span style="font-size: 24px; font-weight: bold;">🌈 Follow Me 🌈</></summary>
 
+---
 
 
-[포트폴리오_구글드라이브](https://drive.google.com/file/d/1V7lwvjcMtLzPF6OC3BgxA1lUIpVJXOs_/view?usp=sharing)
+[포트폴리오_구글드라이브](https://drive.google.com/file/d/1kgXyFyKiDug6z0O5a5Niy8Se-jBMMa72/view?usp=sharing)
 
 <a href="https://velog.io/@wlstjdwkd"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.instagram.com/bvng._.mooomiin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>
@@ -17,9 +18,10 @@
 
 ---
 <br>
-<details style="font-size: 24px;">
+<details style="font-size: 30px;">
   <summary><span style="font-size: 24px; font-weight: bold;">📚 Tech Stack 📚</></summary>
 
+---
 
 
 <p align="left">
@@ -86,8 +88,10 @@
 <br>
 
 
-<details style="font-size: 24px;">
+<details style="font-size: 30px;">
   <summary><span style="font-size: 24px; font-weight: bold;">🎈Information🎲</></summary>
+
+---
 
 
 <p align="left">
@@ -102,9 +106,10 @@
 
 <br>
 
-<details style="font-size: 24px;">
+<details style="font-size: 30px;">
   <summary><span style="font-size: 24px; font-weight: bold;">📌 My Activities 📌</></summary>
 
+---
 
 
 | Organization     | Activity                                                                           | Position         | Achieve                                                                                       | Date                         |
