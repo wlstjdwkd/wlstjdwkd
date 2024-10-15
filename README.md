@@ -1,9 +1,11 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8%20%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%ED%84%B0%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B0%A9%EC%A7%84%EC%84%B1&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
-<h3 align="left">🌈 Follow Me 🌈</h3>
 
----
+<details style="font-size: 24px;">
+  <summary><span style="font-size: 24px; font-weight: bold;">🌈 Follow Me 🌈</></summary>
+
+
 
 [포트폴리오_구글드라이브](https://drive.google.com/file/d/1V7lwvjcMtLzPF6OC3BgxA1lUIpVJXOs_/view?usp=sharing)
 
@@ -11,12 +13,14 @@
 <a href="https://www.instagram.com/bvng._.mooomiin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:xkakrlfh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=square&logo=Gmail&logoColor=white"/></a></br>
 
-
-<br>
-
-<h3 align="left">📚 Tech Stack 📚</h3>
+</details>
 
 ---
+<br>
+<details style="font-size: 24px;">
+  <summary><span style="font-size: 24px; font-weight: bold;">📚 Tech Stack 📚</></summary>
+
+
 
 <p align="left">
   <strong>Back-End</strong><br>
@@ -75,23 +79,33 @@
 
 </p>
 
+</details>
+
+---
+
 <br>
 
 
-<h3 align="left">🎈Information🎲</h3>
+<details style="font-size: 24px;">
+  <summary><span style="font-size: 24px; font-weight: bold;">🎈Information🎲</></summary>
 
----
+
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlstjdwkd&layout=compact">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=wlstjdwkd">
     <img src="https://github-readme-stats.vercel.app/api?username=wlstjdwkd&show_icons=true&theme=radical">
 </p>
 
-<br>
-
-<h3 align="left">📌 My Activities 📌</h3>
+</details>
 
 ---
+
+<br>
+
+<details style="font-size: 24px;">
+  <summary><span style="font-size: 24px; font-weight: bold;">📌 My Activities 📌</></summary>
+
+
 
 | Organization     | Activity                                                                           | Position         | Achieve                                                                                       | Date                         |
 |------------------|------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------|------------------------------|
@@ -109,6 +123,7 @@
 | 2017 국제 ACM-ICPC | 대학생 알고리즘 프로그래밍 대회                                                                  | 팀원               | 본선 진출                                                                                         | 2017.05                      |
 
 
+</details>
 
 ---
 
